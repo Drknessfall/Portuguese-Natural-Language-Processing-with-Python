@@ -107,7 +107,7 @@ The main goal for this e-book is to show how to use python and the several libra
 * Soundex, Metaphone
 * Fuzzywuzzy, jellyfish
 * brasil.vocab, certografia
-* Whoosh, cwb-python, Pattern
+* Whoosh, cwb-python, Pattern, Newspaper
 * NLTK, TextBlob, MontyLingua, spaCy, PyNLPl, polyglot, PyPLN
 * nlpnet, MBSP
 * gensim
