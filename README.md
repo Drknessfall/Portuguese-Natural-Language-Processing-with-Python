@@ -108,7 +108,7 @@ The main goal for this e-book is to show how to use python and the several libra
 * Fuzzywuzzy, jellyfish
 * brasil.vocab, certografia
 * Whoosh, cwb-python, Pattern
-* NLTK, TextBlob, MontyLingua, spaCy, PyNLPl, polyglot
+* NLTK, TextBlob, MontyLingua, spaCy, PyNLPl, polyglot, PyPLN
 * nlpnet, MBSP
 * gensim
 * sumy, textteaser, TextRank
