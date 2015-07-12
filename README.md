@@ -50,6 +50,7 @@ The main goal for this e-book is to show how to use python and the several libra
 * Frequency Distribution
 * Lexical Variety
 * Zipf's law
+* Luhn cut
 * String distance
 * Fuzzy matching
 
