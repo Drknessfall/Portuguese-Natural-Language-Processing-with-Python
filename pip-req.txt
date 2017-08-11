@@ -1,3 +1,5 @@
 git+https://github.com/saffsd/langid.py.git
-langdetect==1.0.5
-polyglot==15.05.02
+langdetect
+polyglot
+nltk
+spacy
