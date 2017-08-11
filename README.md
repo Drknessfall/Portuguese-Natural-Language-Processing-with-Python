@@ -4,7 +4,6 @@ This reporsitoy keeps an ongoing e-book about Natural Language Processing wiih P
 
 The main goal for this e-book is to show how to use python and the several libraries available to process the Portuguese language.
 
-
 # Outline
 
 ## 0. Preface
@@ -24,9 +23,11 @@ The main goal for this e-book is to show how to use python and the several libra
         * Priberam Subjective Lexicon
 * Gazetters
     * DBPedia
-    * City Names in Brazil    
+    * Other lists
 * Dicionaries
+    * Unitex
     * Open Dictionary
+    * Wiki Dictionary
 * Thesauri
     * TEP
     * Open Thesaurus
@@ -64,7 +65,6 @@ The main goal for this e-book is to show how to use python and the several libra
 * Parsing
 * Named Entity Recognition
 * Semantic Analysis
-
 
 
 ## 5. NLP Taks and Applications
@@ -118,6 +118,5 @@ The main goal for this e-book is to show how to use python and the several libra
 
 
 # Author
-Pedro Paulo Balage   
-[pedrobalage.com](http://pedrobalage.com)   
-PhD Student - NILC/ICMC-USP
+Pedro Paulo Balage
+[pedrobalage.com](http://pedrobalage.com)
