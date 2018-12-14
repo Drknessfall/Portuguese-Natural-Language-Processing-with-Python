@@ -1,6 +1,6 @@
 # [WIP] Portuguese Natural Language Processing with Python
 
-This reporsitoy keeps an ongoing e-book about Natural Language Processing wiih Python with a focus on Portuguese Language (mainly Portugal and Brazil varieties) .
+This reporsitory keeps an ongoing e-book about Natural Language Processing wiih Python with a focus on Portuguese Language (mainly Portugal and Brazil varieties) .
 
 The main goal for this e-book is to show how to use python and the several libraries available to process the Portuguese language.
 
